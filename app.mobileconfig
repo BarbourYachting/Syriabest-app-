@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Icon</key>
+            <data>
+            iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAYAAAA+7...
+            </data>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>SyriaBest</string>
+            <key>PayloadDescription</key>
+            <string>WebClip</string>
+            <key>PayloadDisplayName</key>
+            <string>SyriaBest App</string>
+            <key>PayloadIdentifier</key>
+            <string>com.syriabest.webclip</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>F3A2C1D0-1234-5678-ABCD-998877665544</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://syriabest.vercel.app</string>
+        </dict>
+    </array>
+
+    <key>PayloadDisplayName</key>
+    <string>SyriaBest Installer</string>
+    <key>PayloadIdentifier</key>
+    <string>com.syriabest.profile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>AA11BB22-CC33-DD44-EE55-FF6677889900</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
